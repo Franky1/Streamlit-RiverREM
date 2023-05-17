@@ -1,4 +1,4 @@
 streamlit
-libgdal-dev
+osgeo 
 riverrem
 
