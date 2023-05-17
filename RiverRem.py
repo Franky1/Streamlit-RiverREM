@@ -40,7 +40,7 @@ def main():
                 "Use example digital elevation .tif file", True, help="Use in-built example file to demo the app")
 
             if use_example_filea:
-                SRTM = "EXAMPLE_DEM.TIF"
+                SRTM = "EXAMPLE_DEM.tif"
 
             uploadeda = st.file_uploader("Choose a tif file", type=["tif"])
             if uploadeda is not None:
