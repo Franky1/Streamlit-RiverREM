@@ -1,5 +1,6 @@
 streamlit
 gdal
+pip install gdal
 --find-links=https://girder.github.io/large_image_wheels gdal
 riverrem
 dataclasses
