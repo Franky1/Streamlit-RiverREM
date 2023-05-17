@@ -2,5 +2,14 @@ streamlit
 gdal
 --find-links=https://girder.github.io/large_image_wheels gdal
 riverrem
+dataclasses
+seaborn
+scipy>=1.6.0
+shapely
+pandas
+requests
+geopandas
+bottleneck
+numexpr
 
 
