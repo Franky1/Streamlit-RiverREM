@@ -1,4 +1,4 @@
 streamlit
-osgeo 
+pip install gdal
 riverrem
 
