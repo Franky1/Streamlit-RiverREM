@@ -2,6 +2,7 @@ import streamlit as st
 import os
 from osgeo import gdal
 from riverrem.REMMaker import REMMaker
+import tempfile
 from tempfile import NamedTemporaryFile
 
 
