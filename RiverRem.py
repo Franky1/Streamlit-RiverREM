@@ -87,7 +87,7 @@ def main():
         elif choice == 'About':
             from PIL import Image
             imageREM = Image.open('yukon_crop.png')
-            st.image(imageREM, caption="REM of the Yukon River, North America by the Kenneth Larrieu [Link to GitHub Page](%s)" % url)
+            st.image(imageREM, caption="REM of the Yukon River, North America by Kenneth Larrieu [Link to GitHub Page](%s)" % url)
 
             st.subheader("About")
             url2 = "https://github.com/DahnJ/REM-xarray"
