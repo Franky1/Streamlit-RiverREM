@@ -99,7 +99,7 @@ def main():
             st.write("RiverREM is a Python package created by Kenneth Larrieu to automatically create river relative elevation model (REM) visualisations "
                      "with just a input digital elevation model (DEM). The idea is to allow users to quickly use and try the package out without any coding experience. "
                      "The package uses the OpenStreetMap API to retrieve river centerline geometries over the DEM extent. "
-                     "More functionality is offered by the package not shown here and can be found in the documetition in package's GitHub page")
+                     "More functionality is offered by the package not shown here and can be found in the documentation in package's GitHub page")
 
             st.write("To find a DEM for your area of interest the following links may be of interest for free topography and bathymetric data:")
             st.write("[Link of DEM websites](%s)" % url3)
