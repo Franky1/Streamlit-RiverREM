@@ -1,6 +1,7 @@
 import streamlit as st
 from riverrem.REMMaker import REMMaker
 import os
+import gdal
 import tempfile
 from tempfile import NamedTemporaryFile
 
