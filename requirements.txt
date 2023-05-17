@@ -2,5 +2,4 @@ streamlit
 --find-links=https://girder.github.io/large_image_wheels GDAL
 gdal
 riverrem
-from osgeo import gdal
 osgeo
