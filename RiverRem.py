@@ -2,7 +2,7 @@ import streamlit as st
 from riverrem.REMMaker import REMMaker
 import os
 import gdal
-import tempfile
+from os import gdal
 from tempfile import NamedTemporaryFile
 
 
